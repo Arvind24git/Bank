@@ -8,6 +8,8 @@ public class Bank {
 		 Bank emp =new Bank();
 		 emp.empid();
 		
+		 System.out.println("vikey");
+		 System.out.println("Arvind1");
 	}
 
 }
