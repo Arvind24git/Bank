@@ -11,8 +11,6 @@ public class Bank {
 		 System.out.println("Arvind");
 		 System.out.println("Arvind1");
 		
-		 System.out.println("vikey");
-		 System.out.println("Arvind1");
 	}
 
 }
