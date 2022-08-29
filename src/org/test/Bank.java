@@ -9,7 +9,7 @@ public class Bank {
 		 emp.empid();
 		 
 		 System.out.println("Arvind");
-		 System.out.println("Arvind1");
+		 System.out.println("Arvin");
 		
 	}
 
